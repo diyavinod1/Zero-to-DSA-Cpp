@@ -2,7 +2,7 @@
 ====================================================
 File: 01_Rectangular_Star_Pattern.cpp
 Pattern: Rectangular Star
-Section: Pattern Problems
+Section: Foundations of C++
 ====================================================
 
 Why this matters in DSA:
